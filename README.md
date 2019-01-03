@@ -1,6 +1,4 @@
-# Style-Transfer-Bot
-
-Style transfer telegram bot
+# Style transfer telegram bot
 
 В данном проекте создается телеграм бот, 
 который по двум картинкам будет переносить стиль с одной на другую.
